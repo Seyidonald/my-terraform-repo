@@ -1,2 +1,3 @@
-# my-terraform-repo
-Repository created by Terraform
+# My Terraform Repo
+
+Created with Terraform!
